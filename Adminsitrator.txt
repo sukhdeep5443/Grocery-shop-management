@@ -1,0 +1,5 @@
+-- 1. Create A New Product
+        -- 2. Delete An Exhisting Product
+-- 3. Update Stock Of a Product
+        -- 4. Show Details Of Workers
+-- 5. Show Details Of Customers

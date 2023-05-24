@@ -1,0 +1,7 @@
+--- 1. Toothbrush
+       ---2. Tooth Paste
+---3. Harpic Bathroom Cleaner
+       ---4. Harpic Floor Cleaner
+---5. Washing Powder 2 KG
+       ---6. Bathing Soap
+---7. Liquid Handwash

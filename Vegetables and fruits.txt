@@ -1,0 +1,17 @@
+                              VEGETABLES
+
+---1. Carrots
+        ---2. Broccoli
+---3. Mushrooms
+        ---4. Kale
+---5. Turnips
+        ---6. Spinach
+***************************************************************
+                              FRUITS
+---7. Apples
+        ---8. Pears
+---9. Oranges
+        ---10. Apricots
+---11. Peaches 
+        ---12. Bananas 
+---13. Strawberries

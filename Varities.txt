@@ -1,0 +1,12 @@
+-- 1. Bakery and Bread
+        -- 2. Bathroom Essentials
+-- 3. Cereals and Rice
+        -- 4. Chips,Cakes and Biscuits
+-- 5. Dairy, Cheese and Eggs
+        -- 6. Drinks
+-- 7. Dry fruits
+        -- 8. Household Essentials
+-- 9. Ice Creams and Chocolates
+        -- 10. Meat and Seafood
+-- 11. Oils, Sauces and Condiment
+        -- 12. Vegetables and fruits
